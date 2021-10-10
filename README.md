@@ -1,3 +1,3 @@
-# cs445-lab-solns
+# CS445 Lab Solutions
 
 1. Lab 1
