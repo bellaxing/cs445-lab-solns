@@ -9,4 +9,4 @@
     4. [Exercise 4](./Lab3/Exercise4.ts)
 4. Lab 4 - JS DOM
     1. [Swap Image](./Lab4/Exercise01/swap.html)
-    2. [Calculator](./Lab4/Exercise02/calculator.html)
+    2. [Calculator - html](./Lab4/Exercise02/calculator.html) [Calculator - JS](./Lab4/Exercise02/calc.js)
