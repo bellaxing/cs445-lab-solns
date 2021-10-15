@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SWAP Picture</title>
+    <script>
+        window.onload = function() {
+            document.getElementById('swap').onclick = function() {
+                let picture1 = document.getElementById("img1");
+                let picture2 = document.getElementById("img2");
+                let temp = picture1.src; //........1.jpeg
+                picture1.src = picture2.src;
+                picture2.src = temp;
+            }
+        }
+    </script>
+</head>
+
+<body>
+
+    <img id="img1" src="1.jpeg" alt="Golden Retriever" />
+    <img id="img2" src="2.jpeg" alt="Labrado" />
+    <br />
+    <button id="swap">Swap</button>
+</body>
+
+</html>
