@@ -10,3 +10,6 @@
 4. Lab 4 - JS DOM
     1. [Swap Image](./Lab4/Exercise01/swap.html)
     2. [Calculator - html](./Lab4/Exercise02/calculator.html) [Calculator - JS](./Lab4/Exercise02/calc.js)
+5. Lab 5 - Asynchronous Programming
+    1. [Exercise 1 - isPrime](./Lab5/Exercise01.js)
+    2. [Exercise 2 - removeDuplicatesAsync](./Lab5/Exercise02.js)
