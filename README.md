@@ -16,3 +16,6 @@
 6. Lab 6 - Asynchronous Programming:Async&await
     1. [Exercise 1 - isPrime](./Lab6/Exercise01.js)
     2. [Exercise 2 - removeDuplicatesAsync](./Lab6/Exercise02.js)
+7. Lab 7 - Fetch
+    1. [Soln 1 - index.html](./Lab7/soln1/index.html) [Soln 1 - index.js](./Lab7/soln1/index.js)
+    2. [Soln 2 - index.html](./Lab7/soln2/index.html) [Soln 2 - index.js](./Lab7/soln2/index.js)
