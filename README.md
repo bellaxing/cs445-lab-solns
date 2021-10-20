@@ -19,3 +19,6 @@
 7. Lab 7 - Fetch
     1. [Soln 1 - index.html](./Lab7/soln1/index.html) [Soln 1 - index.js](./Lab7/soln1/index.js)
     2. [Soln 2 - index.html](./Lab7/soln2/index.html) [Soln 2 - index.js](./Lab7/soln2/index.js)
+8. Lab 8 - RXJS
+    1. [HTML - index.html](./Lab8/index.html)
+    2. [JavaScript - index.js](./Lab8/index.js)
