@@ -22,3 +22,6 @@
 8. Lab 8 - RXJS
     1. [HTML - index.html](./Lab8/index.html)
     2. [JavaScript - index.js](./Lab8/index.js)
+9. Lab 9 - Design Patterns 1
+    1. [Exercise 1 - Module Pattern](./Lab9/Exercise01.js)
+    2. [Exercise 2 - Observer Pattern](./Lab9/Exercise02.js)
