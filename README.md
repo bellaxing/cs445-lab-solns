@@ -25,3 +25,9 @@
 9. Lab 9 - Design Patterns 1
     1. [Exercise 1 - Module Pattern](./Lab9/Exercise01.js)
     2. [Exercise 2 - Observer Pattern](./Lab9/Exercise02.js)
+10. Lab 10 - Design Patterns 2
+    1. [Exercise 1 - Factory Method pattern](./Lab10/Exercise01.js)
+    2. [Exercise 2 - Decorator pattern](./Lab10/Exercise02.js)
+    3. [Exercise 3 - Strategy pattern](./Lab10/Exercise03.js)
+    4. [Exercise 4 - Memoized Fibonacci](./Lab10/Exercise04.js)
+
